@@ -1,10 +1,10 @@
-# 👨‍💻 Olá, sou Alexandre Nascimento Caminha!
+# Olá <img height="35em" img width="35em" src="https://user-images.githubusercontent.com/72770138/226182736-86722913-0342-4a5e-8616-6a6a827d82e8.gif" />, sou Alexandre Nascimento Caminha!
 
 - 👨‍🎓 Sou estudante de Ciências da Computação
-- 🤓 Estou atualmente estudando Web Development
+- 👨‍💻 Estou atualmente estudando Web Development
 - ✉ Pode me contatar pelo e-mail: alexandrencaminha@gmail.com
 
-<img height="300em" img width="65%" src="https://user-images.githubusercontent.com/72770138/226179141-c9d62af6-e2a3-4933-8398-cbbe8e83e91e.gif" />
+<img height="350em" img width="70%" src="https://user-images.githubusercontent.com/72770138/226179141-c9d62af6-e2a3-4933-8398-cbbe8e83e91e.gif" />
 
 ---
 
